@@ -45,7 +45,7 @@
       <recent name="StacksAndQueues" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MatchingBrackets">
+  <component name="RunManager" selected="Application.ReverseNumbersWithAStack">
     <configuration name="BrowserHistory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StacksAndQueues.LAB.BrowserHistory" />
       <module name="JavaAdvanced-2023" />
@@ -85,6 +85,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReverseNumbersWithAStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StacksAndQueues.EXERCISE.ReverseNumbersWithAStack" />
+      <module name="JavaAdvanced-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StacksAndQueues.EXERCISE.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SimpleCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StacksAndQueues.LAB.SimpleCalculator" />
       <module name="JavaAdvanced-2023" />
@@ -100,6 +113,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseNumbersWithAStack" />
         <item itemvalue="Application.MatchingBrackets" />
         <item itemvalue="Application.DecimaltoBinaryConverter" />
         <item itemvalue="Application.BrowserHistory" />
@@ -118,7 +132,7 @@
       <workItem from="1684083112213" duration="5482000" />
       <workItem from="1684184251439" duration="3384000" />
       <workItem from="1684441220352" duration="684000" />
-      <workItem from="1684494113411" duration="1333000" />
+      <workItem from="1684494113411" duration="1634000" />
     </task>
     <servers />
   </component>
