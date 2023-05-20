@@ -133,32 +133,11 @@
       <workItem from="1684184251439" duration="3384000" />
       <workItem from="1684441220352" duration="684000" />
       <workItem from="1684494113411" duration="4936000" />
-      <workItem from="1684613380578" duration="2605000" />
+      <workItem from="1684613380578" duration="3554000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StacksAndQueues/EXERCISE/BalancedParentheses.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StacksAndQueues/EXERCISE/BalancedParentheses.java</url>
-          <line>35</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/StacksAndQueues/EXERCISE/BalancedParentheses.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
