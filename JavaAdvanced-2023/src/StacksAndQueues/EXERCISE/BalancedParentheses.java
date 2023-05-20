@@ -25,7 +25,7 @@ public class BalancedParentheses {
         String input = scanner.nextLine();
 
         if (!lenghtChecker(input.length())) {
-            System.out.println("NO"); 
+            System.out.println("NO");
             return;
         }
 
