@@ -45,7 +45,7 @@
       <recent name="StacksAndQueues" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CompareMatrices">
+  <component name="RunManager" selected="Application.PositionsOf">
     <configuration name="BalancedParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StacksAndQueues.EXERCISE.BalancedParentheses" />
       <module name="JavaAdvanced-2023" />
@@ -72,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MatchingBrackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StacksAndQueues.LAB.MatchingBrackets" />
+    <configuration name="PositionsOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultidimensionalArrays.LAB.PositionsOf" />
       <module name="JavaAdvanced-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StacksAndQueues.LAB.*" />
+          <option name="PATTERN" value="MultidimensionalArrays.LAB.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PositionsOf" />
         <item itemvalue="Application.CompareMatrices" />
         <item itemvalue="Application.SimpleTextEditor" />
         <item itemvalue="Application.BalancedParentheses" />
         <item itemvalue="Application.ReverseNumbersWithAStack" />
-        <item itemvalue="Application.MatchingBrackets" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +136,7 @@
       <workItem from="1684613380578" duration="4763000" />
       <workItem from="1684702798706" duration="2174000" />
       <workItem from="1685230507324" duration="597000" />
-      <workItem from="1685864232715" duration="2114000" />
+      <workItem from="1685864232715" duration="2826000" />
     </task>
     <servers />
   </component>
