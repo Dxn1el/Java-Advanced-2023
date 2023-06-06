@@ -45,7 +45,7 @@
       <recent name="StacksAndQueues" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DiagonalDifference">
+  <component name="RunManager" selected="Application.MatrixShuffling">
     <configuration name="DiagonalDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MultidimensionalArrays.EXERCISE.DiagonalDifference" />
       <module name="JavaAdvanced-2023" />
@@ -85,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PositionsOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultidimensionalArrays.LAB.PositionsOf" />
+    <configuration name="MatrixShuffling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultidimensionalArrays.EXERCISE.MatrixShuffling" />
       <module name="JavaAdvanced-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MultidimensionalArrays.LAB.*" />
+          <option name="PATTERN" value="MultidimensionalArrays.EXERCISE.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MatrixShuffling" />
         <item itemvalue="Application.DiagonalDifference" />
         <item itemvalue="Application.FilltheMatrix" />
         <item itemvalue="Application.PrintDiagonalsofSquareMatrix" />
         <item itemvalue="Application.IntersectionofTwoMatrices" />
-        <item itemvalue="Application.PositionsOf" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +137,7 @@
       <workItem from="1684702798706" duration="2174000" />
       <workItem from="1685230507324" duration="597000" />
       <workItem from="1685864232715" duration="5806000" />
-      <workItem from="1686031277905" duration="6374000" />
+      <workItem from="1686031277905" duration="9646000" />
     </task>
     <servers />
   </component>
