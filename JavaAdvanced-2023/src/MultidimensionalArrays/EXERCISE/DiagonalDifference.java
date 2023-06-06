@@ -23,7 +23,7 @@ public class DiagonalDifference {
             int[] fillTheRow = Arrays.stream(scanner.nextLine().split(" ")).mapToInt(Integer::parseInt).toArray();
             matrix[i] = fillTheRow;
         }
-        
+
         int sum= sumOfDiagonals(matrix);
         System.out.println(Math.abs(sum));
     }
