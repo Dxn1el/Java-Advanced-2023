@@ -137,7 +137,7 @@
       <workItem from="1684702798706" duration="2174000" />
       <workItem from="1685230507324" duration="597000" />
       <workItem from="1685864232715" duration="5806000" />
-      <workItem from="1686031277905" duration="1523000" />
+      <workItem from="1686031277905" duration="2264000" />
     </task>
     <servers />
   </component>
@@ -169,7 +169,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/MultidimensionalArrays/LAB/PrintDiagonalsofSquareMatrix.java</url>
-          <line>6</line>
+          <line>5</line>
           <properties class="MultidimensionalArrays.LAB.PrintDiagonalsofSquareMatrix" method="handlePrinting">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
