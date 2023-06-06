@@ -45,20 +45,7 @@
       <recent name="StacksAndQueues" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IntersectionofTwoMatrices">
-    <configuration name="BalancedParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StacksAndQueues.EXERCISE.BalancedParentheses" />
-      <module name="JavaAdvanced-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StacksAndQueues.EXERCISE.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PrintDiagonalsofSquareMatrix">
     <configuration name="CompareMatrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MultidimensionalArrays.LAB.CompareMatrices" />
       <module name="JavaAdvanced-2023" />
@@ -98,6 +85,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrintDiagonalsofSquareMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultidimensionalArrays.LAB.PrintDiagonalsofSquareMatrix" />
+      <module name="JavaAdvanced-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MultidimensionalArrays.LAB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SimpleTextEditor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StacksAndQueues.EXERCISE.SimpleTextEditor" />
       <module name="JavaAdvanced-2023" />
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintDiagonalsofSquareMatrix" />
         <item itemvalue="Application.IntersectionofTwoMatrices" />
         <item itemvalue="Application.PositionsOf" />
         <item itemvalue="Application.CompareMatrices" />
         <item itemvalue="Application.SimpleTextEditor" />
-        <item itemvalue="Application.BalancedParentheses" />
       </list>
     </recent_temporary>
   </component>
@@ -137,6 +137,7 @@
       <workItem from="1684702798706" duration="2174000" />
       <workItem from="1685230507324" duration="597000" />
       <workItem from="1685864232715" duration="5806000" />
+      <workItem from="1686031277905" duration="1523000" />
     </task>
     <servers />
   </component>
@@ -165,6 +166,15 @@
           <url>file://$PROJECT_DIR$/src/MultidimensionalArrays/LAB/IntersectionofTwoMatrices.java</url>
           <line>8</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/MultidimensionalArrays/LAB/PrintDiagonalsofSquareMatrix.java</url>
+          <line>6</line>
+          <properties class="MultidimensionalArrays.LAB.PrintDiagonalsofSquareMatrix" method="handlePrinting">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
