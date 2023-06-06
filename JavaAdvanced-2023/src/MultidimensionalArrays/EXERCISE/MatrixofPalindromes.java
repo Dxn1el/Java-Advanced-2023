@@ -12,7 +12,7 @@ public class MatrixofPalindromes {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String[] dimentions=scanner.nextLine().split("\\s+");
-        
+
         int rows =Integer.parseInt(dimentions[0]);
         int cols =Integer.parseInt(dimentions[1]);
         String[][]matrix=new String[rows][cols];
