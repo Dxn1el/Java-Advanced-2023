@@ -45,13 +45,26 @@
       <recent name="StacksAndQueues" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrintDiagonalsofSquareMatrix">
+  <component name="RunManager" selected="Application.FilltheMatrix">
     <configuration name="CompareMatrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MultidimensionalArrays.LAB.CompareMatrices" />
       <module name="JavaAdvanced-2023" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="MultidimensionalArrays.LAB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FilltheMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultidimensionalArrays.EXERCISE.FilltheMatrix" />
+      <module name="JavaAdvanced-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MultidimensionalArrays.EXERCISE.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,26 +111,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleTextEditor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StacksAndQueues.EXERCISE.SimpleTextEditor" />
-      <module name="JavaAdvanced-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StacksAndQueues.EXERCISE.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FilltheMatrix" />
         <item itemvalue="Application.PrintDiagonalsofSquareMatrix" />
         <item itemvalue="Application.IntersectionofTwoMatrices" />
         <item itemvalue="Application.PositionsOf" />
         <item itemvalue="Application.CompareMatrices" />
-        <item itemvalue="Application.SimpleTextEditor" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +137,7 @@
       <workItem from="1684702798706" duration="2174000" />
       <workItem from="1685230507324" duration="597000" />
       <workItem from="1685864232715" duration="5806000" />
-      <workItem from="1686031277905" duration="2264000" />
+      <workItem from="1686031277905" duration="3435000" />
     </task>
     <servers />
   </component>
