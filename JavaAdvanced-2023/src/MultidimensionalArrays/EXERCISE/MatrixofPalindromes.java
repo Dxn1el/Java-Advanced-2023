@@ -12,10 +12,12 @@ public class MatrixofPalindromes {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String[] dimentions=scanner.nextLine().split("\\s+");
+        
         int rows =Integer.parseInt(dimentions[0]);
         int cols =Integer.parseInt(dimentions[1]);
         String[][]matrix=new String[rows][cols];
         char startLetter='a';
+
         for (int row = 0; row <rows ; row++) {
             for (int col = 0; col <cols ; col++) {
                 String palindrome=""+startLetter+(char)(startLetter+col)+startLetter;
