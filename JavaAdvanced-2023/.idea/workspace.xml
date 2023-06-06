@@ -45,13 +45,13 @@
       <recent name="StacksAndQueues" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FilltheMatrix">
-    <configuration name="CompareMatrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultidimensionalArrays.LAB.CompareMatrices" />
+  <component name="RunManager" selected="Application.DiagonalDifference">
+    <configuration name="DiagonalDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultidimensionalArrays.EXERCISE.DiagonalDifference" />
       <module name="JavaAdvanced-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MultidimensionalArrays.LAB.*" />
+          <option name="PATTERN" value="MultidimensionalArrays.EXERCISE.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DiagonalDifference" />
         <item itemvalue="Application.FilltheMatrix" />
         <item itemvalue="Application.PrintDiagonalsofSquareMatrix" />
         <item itemvalue="Application.IntersectionofTwoMatrices" />
         <item itemvalue="Application.PositionsOf" />
-        <item itemvalue="Application.CompareMatrices" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +137,7 @@
       <workItem from="1684702798706" duration="2174000" />
       <workItem from="1685230507324" duration="597000" />
       <workItem from="1685864232715" duration="5806000" />
-      <workItem from="1686031277905" duration="3435000" />
+      <workItem from="1686031277905" duration="4420000" />
     </task>
     <servers />
   </component>
