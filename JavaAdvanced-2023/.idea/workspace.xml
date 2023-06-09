@@ -45,7 +45,7 @@
       <recent name="StacksAndQueues" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CountRealNumbers">
+  <component name="RunManager" selected="Application.Largest3Numbers">
     <configuration name="CountRealNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SetsAndMapsADVANCED.LAB.CountRealNumbers" />
       <module name="JavaAdvanced-2023" />
@@ -59,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DiagonalDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultidimensionalArrays.EXERCISE.DiagonalDifference" />
+    <configuration name="Largest3Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SetsAndMapsADVANCED.LAB.Largest3Numbers" />
       <module name="JavaAdvanced-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MultidimensionalArrays.EXERCISE.*" />
+          <option name="PATTERN" value="SetsAndMapsADVANCED.LAB.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Largest3Numbers" />
         <item itemvalue="Application.CountRealNumbers" />
         <item itemvalue="Application.VoinaNumberGame" />
         <item itemvalue="Application.MatrixofPalindromes" />
         <item itemvalue="Application.MatrixShuffling" />
-        <item itemvalue="Application.DiagonalDifference" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +140,7 @@
       <workItem from="1686031277905" duration="11690000" />
       <workItem from="1686083165519" duration="2000" />
       <workItem from="1686248832996" duration="6593000" />
-      <workItem from="1686311188304" duration="1847000" />
+      <workItem from="1686311188304" duration="2690000" />
     </task>
     <servers />
   </component>
