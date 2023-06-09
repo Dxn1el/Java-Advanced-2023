@@ -45,7 +45,7 @@
       <recent name="StacksAndQueues" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Largest3Numbers">
+  <component name="RunManager" selected="Application.SoftUniParty">
     <configuration name="CountRealNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SetsAndMapsADVANCED.LAB.CountRealNumbers" />
       <module name="JavaAdvanced-2023" />
@@ -72,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MatrixShuffling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultidimensionalArrays.EXERCISE.MatrixShuffling" />
+    <configuration name="MatrixofPalindromes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultidimensionalArrays.EXERCISE.MatrixofPalindromes" />
       <module name="JavaAdvanced-2023" />
       <extension name="coverage">
         <pattern>
@@ -85,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MatrixofPalindromes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultidimensionalArrays.EXERCISE.MatrixofPalindromes" />
+    <configuration name="SoftUniParty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SetsAndMapsADVANCED.LAB.SoftUniParty" />
       <module name="JavaAdvanced-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MultidimensionalArrays.EXERCISE.*" />
+          <option name="PATTERN" value="SetsAndMapsADVANCED.LAB.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SoftUniParty" />
         <item itemvalue="Application.Largest3Numbers" />
         <item itemvalue="Application.CountRealNumbers" />
         <item itemvalue="Application.VoinaNumberGame" />
         <item itemvalue="Application.MatrixofPalindromes" />
-        <item itemvalue="Application.MatrixShuffling" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +140,8 @@
       <workItem from="1686031277905" duration="11690000" />
       <workItem from="1686083165519" duration="2000" />
       <workItem from="1686248832996" duration="6593000" />
-      <workItem from="1686311188304" duration="2690000" />
+      <workItem from="1686311188304" duration="4334000" />
+      <workItem from="1686349094157" duration="355000" />
     </task>
     <servers />
   </component>
@@ -169,6 +170,21 @@
           <url>file://$PROJECT_DIR$/src/MultidimensionalArrays/LAB/IntersectionofTwoMatrices.java</url>
           <line>8</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SetsAndMapsADVANCED/LAB/CountRealNumbers.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SetsAndMapsADVANCED/LAB/CountRealNumbers.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SetsAndMapsADVANCED/LAB/CountRealNumbers.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/MultidimensionalArrays/LAB/PrintDiagonalsofSquareMatrix.java</url>
