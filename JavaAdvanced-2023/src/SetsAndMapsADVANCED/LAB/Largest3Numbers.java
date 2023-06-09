@@ -10,6 +10,6 @@ public class Largest3Numbers {
                 .map(Integer::parseInt)
                 .sorted((left, right) -> right.compareTo(left))
                 .limit(3)
-                .forEach(System.out::println);
+                .forEach(e-> System.out.printf("%d ",e));
     }
 }
