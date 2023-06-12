@@ -45,13 +45,13 @@
       <recent name="StacksAndQueues" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PhoneBook">
-    <configuration name="CountRealNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SetsAndMapsADVANCED.LAB.CountRealNumbers" />
+  <component name="RunManager" selected="Application.FixEmail">
+    <configuration name="FixEmail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SetsAndMapsADVANCED.EXERCISE.FixEmail" />
       <module name="JavaAdvanced-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SetsAndMapsADVANCED.LAB.*" />
+          <option name="PATTERN" value="SetsAndMapsADVANCED.EXERCISE.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FixEmail" />
         <item itemvalue="Application.PhoneBook" />
         <item itemvalue="Application.SetsofElements" />
         <item itemvalue="Application.SoftUniParty" />
         <item itemvalue="Application.Largest3Numbers" />
-        <item itemvalue="Application.CountRealNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +142,7 @@
       <workItem from="1686248832996" duration="6593000" />
       <workItem from="1686311188304" duration="4334000" />
       <workItem from="1686349094157" duration="365000" />
-      <workItem from="1686559629361" duration="5336000" />
+      <workItem from="1686559629361" duration="6318000" />
     </task>
     <servers />
   </component>
