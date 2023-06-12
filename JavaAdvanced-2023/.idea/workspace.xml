@@ -45,7 +45,7 @@
       <recent name="StacksAndQueues" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SetsofElements">
+  <component name="RunManager" selected="Application.PhoneBook">
     <configuration name="CountRealNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SetsAndMapsADVANCED.LAB.CountRealNumbers" />
       <module name="JavaAdvanced-2023" />
@@ -65,6 +65,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="SetsAndMapsADVANCED.LAB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SetsAndMapsADVANCED.EXERCISE.PhoneBook" />
+      <module name="JavaAdvanced-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SetsAndMapsADVANCED.EXERCISE.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,26 +111,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VoinaNumberGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SetsAndMapsADVANCED.LAB.VoinaNumberGame" />
-      <module name="JavaAdvanced-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SetsAndMapsADVANCED.LAB.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PhoneBook" />
         <item itemvalue="Application.SetsofElements" />
         <item itemvalue="Application.SoftUniParty" />
         <item itemvalue="Application.Largest3Numbers" />
         <item itemvalue="Application.CountRealNumbers" />
-        <item itemvalue="Application.VoinaNumberGame" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +142,7 @@
       <workItem from="1686248832996" duration="6593000" />
       <workItem from="1686311188304" duration="4334000" />
       <workItem from="1686349094157" duration="365000" />
-      <workItem from="1686559629361" duration="3977000" />
+      <workItem from="1686559629361" duration="5336000" />
     </task>
     <servers />
   </component>
@@ -186,6 +186,11 @@
           <url>file://$PROJECT_DIR$/src/SetsAndMapsADVANCED/LAB/CountRealNumbers.java</url>
           <line>7</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SetsAndMapsADVANCED/EXERCISE/PhoneBook.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/MultidimensionalArrays/LAB/PrintDiagonalsofSquareMatrix.java</url>
