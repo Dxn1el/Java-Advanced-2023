@@ -45,35 +45,9 @@
       <recent name="StacksAndQueues" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UserLogs">
-    <configuration name="FixEmail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SetsAndMapsADVANCED.EXERCISE.FixEmail" />
-      <module name="JavaAdvanced-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SetsAndMapsADVANCED.EXERCISE.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.problem2">
     <configuration name="HandsOfCards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SetsAndMapsADVANCED.EXERCISE.HandsOfCards" />
-      <module name="JavaAdvanced-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SetsAndMapsADVANCED.EXERCISE.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PhoneBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SetsAndMapsADVANCED.EXERCISE.PhoneBook" />
       <module name="JavaAdvanced-2023" />
       <extension name="coverage">
         <pattern>
@@ -111,13 +85,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Z1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="REGULAREXAM1.Z1" />
+      <module name="JavaAdvanced-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="REGULAREXAM1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="REGULAREXAM1.problem2" />
+      <module name="JavaAdvanced-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="REGULAREXAM1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.problem2" />
+        <item itemvalue="Application.Z1" />
         <item itemvalue="Application.UserLogs" />
         <item itemvalue="Application.UserLogs (1)" />
         <item itemvalue="Application.HandsOfCards" />
-        <item itemvalue="Application.FixEmail" />
-        <item itemvalue="Application.PhoneBook" />
       </list>
     </recent_temporary>
   </component>
@@ -143,6 +143,7 @@
       <workItem from="1686311188304" duration="4334000" />
       <workItem from="1686349094157" duration="365000" />
       <workItem from="1686559629361" duration="12916000" />
+      <workItem from="1686985325578" duration="10631000" />
     </task>
     <servers />
   </component>
