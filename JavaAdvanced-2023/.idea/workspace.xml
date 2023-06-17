@@ -45,13 +45,13 @@
       <recent name="StacksAndQueues" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.problem2">
-    <configuration name="HandsOfCards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SetsAndMapsADVANCED.EXERCISE.HandsOfCards" />
+  <component name="RunManager" selected="Application.ReadFile">
+    <configuration name="ReadFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamsFilesandDirectories.ReadFile" />
       <module name="JavaAdvanced-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SetsAndMapsADVANCED.EXERCISE.*" />
+          <option name="PATTERN" value="StreamsFilesandDirectories.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReadFile" />
         <item itemvalue="Application.problem2" />
         <item itemvalue="Application.Z1" />
         <item itemvalue="Application.UserLogs" />
         <item itemvalue="Application.UserLogs (1)" />
-        <item itemvalue="Application.HandsOfCards" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +143,7 @@
       <workItem from="1686311188304" duration="4334000" />
       <workItem from="1686349094157" duration="365000" />
       <workItem from="1686559629361" duration="12916000" />
-      <workItem from="1686985325578" duration="10631000" />
+      <workItem from="1686985325578" duration="13002000" />
     </task>
     <servers />
   </component>
