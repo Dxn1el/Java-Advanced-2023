@@ -45,7 +45,7 @@
       <recent name="StacksAndQueues" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WriteEveryThirdLine">
+  <component name="RunManager" selected="Application.SortLines">
     <configuration name="CopyBytes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StreamsFilesandDirectories.CopyBytes" />
       <module name="JavaAdvanced-2023" />
@@ -72,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StreamsFilesandDirectories.ReadFile" />
+    <configuration name="SortLines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamsFilesandDirectories.SortLines" />
       <module name="JavaAdvanced-2023" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortLines" />
         <item itemvalue="Application.WriteEveryThirdLine" />
         <item itemvalue="Application.ExtractIntegers" />
         <item itemvalue="Application.CopyBytes" />
         <item itemvalue="Application.WriteFile" />
-        <item itemvalue="Application.ReadFile" />
       </list>
     </recent_temporary>
   </component>
@@ -145,6 +145,7 @@
       <workItem from="1686559629361" duration="12916000" />
       <workItem from="1686985325578" duration="16217000" />
       <workItem from="1687121718813" duration="3641000" />
+      <workItem from="1687172452444" duration="652000" />
     </task>
     <servers />
   </component>
